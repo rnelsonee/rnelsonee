@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnelsonee
-- 👀 I’m interested in random small projects
-- 🌱 I’m currently learning that managment isn't as fun as coding
+- 👀 I’m interested in different small projects; some related to open source projects that help at work, or engineering and finance related
+- 🌱 I’m currently improving skills with Python and AWS
 
 
 <!---
